@@ -4,7 +4,7 @@ Ele usa o Teorema e o Método para verificar se dentro do intervalo imposto pelo
 
 Também é utilizado a varíavel "erro" que define o limite de vezes que as operações vão se repetir baseado no número posto nela.
 
-Variáveis à serem inputadas pelo user:
+Variáveis à serem inputadas pelo usuário:
 - Grau do polinômio a ser utilizado
 - O número do primeiro e do último intervalo
 - O limite para erro
